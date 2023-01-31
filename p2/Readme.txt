@@ -1,7 +1,3 @@
-V_number V00986253
-Section A01
-Name Hironori Koso
-
 How to compile and run your code:
 
 1. Open the cmd or bash shell, and go to the directory that has the source code.
